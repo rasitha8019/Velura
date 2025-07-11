@@ -38,7 +38,7 @@ const Login = ({ setToken }) => {
               value={email}
               className="rounded w-full px-3 py-2 border border-gray-300 outline-none"
               type="email"
-              placeholder="you@gmail.com"
+              placeholder="admin@velura.com"
               required
             />
           </div>
@@ -50,7 +50,7 @@ const Login = ({ setToken }) => {
               className="rounded w-full px-3 py-2 border border-gray-300 outline-none"
               type="password"
               value={password}
-              placeholder="Enter your password"
+              placeholder="velura123"
               required
             />
           </div>
